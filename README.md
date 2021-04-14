@@ -4,10 +4,11 @@
  
  Lover of Technology and Coding 💓
  
-## About me 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/hellenmas)](https://github.com/hellenmas)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellenmas)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Languages and Tools:
+![hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=hellenmas&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellenmas&layout=compact)](https://github.com/hellenmas/github-readme-stats)
+
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
