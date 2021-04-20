@@ -1,8 +1,8 @@
 ## Hello World, I'm Hellen!! <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
  
-… Fullstack Developer!
+… Fullstack Developer 👩‍💻
  
- Lover of Technology and Coding 💓
+Lover of Technology and Coding 💓
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/hellenmas)](https://github.com/hellenmas)
@@ -22,6 +22,7 @@
 <code><img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></code>
+
 - Thanks for visiting. 
  
-- Enjoy it!! o/
+- Enjoy it!! 🤖
